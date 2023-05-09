@@ -1,0 +1,48 @@
+Starting learning ASP.Net core
+====================================================================
+    Link: learn.microsoft.com/en-us/aspnet/core/getting-started
+
+From the command line you can create a asp.net webapp
+
+    command used: dotnet new webapp -o aspnetcoreapp
+
+        -- the -o <name> creates a directory of the <name> entered
+
+This command creates all the nessicary files for the asp.net webapp to run. After created, you can enter the following command to run the app:
+
+    command:
+        //get into directory
+        cd <name>
+        //run webapp
+        dotnet watch run
+
+This will start the app using a random port.
+====================================================================
+    Link: learn.microsoft.com/en-us/aspnet/core/tutorials/choose-web-ui
+
+    3 approaches to building a web app
+    - Apps that render UI on server
+        Benefits:
+            Inclusive for all sorts of devices since the logic works on the client side
+            Quick initial load
+            Flexible to access backend and database
+        Drawbacks
+            Memory cost on the server rather than the client
+            Interaction requires a round trip
+    - Apps the render UI on client in the browser
+        Benefits:
+            Rich initerativity of the UI with out the need of a round trip to server
+            Can be disconnect without needing to update the server for each action
+        Drawbacks:
+            Can prevent users viewing your web app as their device could not be capable
+    - Hybrid Apps
+
+    ASP.NET Core UI & Razor Pages
+    Razor Pages is a page based model. Keeps the UI seperate from the Business logic.
+
+    ASP.NET Core MVC
+    ASP.NET MVC renders UI on the server as well as utilizes the Model-View-Controller architecture patern.
+
+    Blazor server
+    Blazor is a client side web UI with .NET. Boastes rich UI using C# instead of JavaScript. Renders UI as HTML and CSS for wide browser support. 
+    Build hybrid desktop and mobile apps with .Net and Blazor.
