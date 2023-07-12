@@ -1,0 +1,23 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#e3d252",
+        "activityBar.background": "#e3d252",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#16897c",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#e3d252",
+        "statusBar.background": "#dcc726",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#b2a11d",
+        "statusBarItem.remoteBackground": "#dcc726",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#dcc726",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#dcc72699",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#dcc726",
+    "dotnet.defaultSolution": "LearningApp.sln"
+}

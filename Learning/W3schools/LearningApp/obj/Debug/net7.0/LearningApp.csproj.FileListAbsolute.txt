@@ -1,0 +1,15 @@
+c:\GitHub\Personal\Learning\W3schools\LearningApp\bin\Debug\net7.0\LearningApp.exe
+c:\GitHub\Personal\Learning\W3schools\LearningApp\bin\Debug\net7.0\LearningApp.deps.json
+c:\GitHub\Personal\Learning\W3schools\LearningApp\bin\Debug\net7.0\LearningApp.runtimeconfig.json
+c:\GitHub\Personal\Learning\W3schools\LearningApp\bin\Debug\net7.0\LearningApp.dll
+c:\GitHub\Personal\Learning\W3schools\LearningApp\bin\Debug\net7.0\LearningApp.pdb
+c:\GitHub\Personal\Learning\W3schools\LearningApp\obj\Debug\net7.0\LearningApp.csproj.AssemblyReference.cache
+c:\GitHub\Personal\Learning\W3schools\LearningApp\obj\Debug\net7.0\LearningApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\GitHub\Personal\Learning\W3schools\LearningApp\obj\Debug\net7.0\LearningApp.AssemblyInfoInputs.cache
+c:\GitHub\Personal\Learning\W3schools\LearningApp\obj\Debug\net7.0\LearningApp.AssemblyInfo.cs
+c:\GitHub\Personal\Learning\W3schools\LearningApp\obj\Debug\net7.0\LearningApp.csproj.CoreCompileInputs.cache
+c:\GitHub\Personal\Learning\W3schools\LearningApp\obj\Debug\net7.0\LearningApp.dll
+c:\GitHub\Personal\Learning\W3schools\LearningApp\obj\Debug\net7.0\refint\LearningApp.dll
+c:\GitHub\Personal\Learning\W3schools\LearningApp\obj\Debug\net7.0\LearningApp.pdb
+c:\GitHub\Personal\Learning\W3schools\LearningApp\obj\Debug\net7.0\LearningApp.genruntimeconfig.cache
+c:\GitHub\Personal\Learning\W3schools\LearningApp\obj\Debug\net7.0\ref\LearningApp.dll
