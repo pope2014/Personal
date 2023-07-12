@@ -19,5 +19,5 @@
         "titleBar.inactiveForeground": "#15202b99"
     },
     "peacock.color": "#dcc726",
-    "dotnet.defaultSolution": "LearningApp.sln"
+    "dotnet.defaultSolution": "Learning/W3schools/App1/LearningApp.sln"
 }
