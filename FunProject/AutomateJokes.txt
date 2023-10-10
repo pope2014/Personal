@@ -1,0 +1,2 @@
+Notes:
+    - This project is to create a .Net core service application that will get a joke and post on to Teams
