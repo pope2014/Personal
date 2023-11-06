@@ -1,0 +1,4 @@
+C:\GitHub\Personal\dotNet_Tutorials\net_console\obj\Debug\net7.0\net_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Personal\dotNet_Tutorials\net_console\obj\Debug\net7.0\net_console.AssemblyInfoInputs.cache
+C:\GitHub\Personal\dotNet_Tutorials\net_console\obj\Debug\net7.0\net_console.AssemblyInfo.cs
+C:\GitHub\Personal\dotNet_Tutorials\net_console\obj\Debug\net7.0\net_console.csproj.CoreCompileInputs.cache
