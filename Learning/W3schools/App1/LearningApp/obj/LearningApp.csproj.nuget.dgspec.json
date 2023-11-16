@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\GitHub\\Personal\\Learning\\W3schools\\App1\\LearningApp\\LearningApp.csproj": {}
+    "C:\\GitHub\\Personal\\Learning\\W3schools\\App1\\LearningApp\\LearningApp.csproj": {}
   },
   "projects": {
-    "c:\\GitHub\\Personal\\Learning\\W3schools\\App1\\LearningApp\\LearningApp.csproj": {
+    "C:\\GitHub\\Personal\\Learning\\W3schools\\App1\\LearningApp\\LearningApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\GitHub\\Personal\\Learning\\W3schools\\App1\\LearningApp\\LearningApp.csproj",
+        "projectUniqueName": "C:\\GitHub\\Personal\\Learning\\W3schools\\App1\\LearningApp\\LearningApp.csproj",
         "projectName": "LearningApp",
-        "projectPath": "c:\\GitHub\\Personal\\Learning\\W3schools\\App1\\LearningApp\\LearningApp.csproj",
+        "projectPath": "C:\\GitHub\\Personal\\Learning\\W3schools\\App1\\LearningApp\\LearningApp.csproj",
         "packagesPath": "C:\\Users\\justinp\\.nuget\\packages\\",
-        "outputPath": "c:\\GitHub\\Personal\\Learning\\W3schools\\App1\\LearningApp\\obj\\",
+        "outputPath": "C:\\GitHub\\Personal\\Learning\\W3schools\\App1\\LearningApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.311\\RuntimeIdentifierGraph.json"
         }
       }
     }

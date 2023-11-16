@@ -1,4 +1,7 @@
 ﻿@page "/counter"
+@page "/counter/{startingValue:int}"
+@page "/dothestuff"
+@layout MainLayout
 
 <PageTitle>Counter</PageTitle>
 
@@ -6,13 +9,37 @@
 
 <p role="status">Current count: @currentCount</p>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<button class="btn btn-primary" @onclick="IncrementCount">Add</button>
+<button class="btn btn-primary" @onclick="DecrementCount">Sub</button>
+<button class="btn btn-warning" @onclick="ResetCount">Reset</button>
 
 @code {
     private int currentCount = 0;
 
-    private void IncrementCount()
+    [Parameter]
+    public int StartingValue { get; set; } = 0;
+
+    [Parameter]
+    public int IncrementBy { get; set; } = 1;
+
+    protected override void OnParametersSet()
     {
-        currentCount++;
+        currentCount = StartingValue;
+        base.OnParametersSet();
+    }
+
+        private void IncrementCount()
+    {
+        currentCount+=IncrementBy;
+    }
+
+    private void DecrementCount()
+    {
+        currentCount-=IncrementBy;
+    }
+
+    private void ResetCount()
+    {
+        currentCount = StartingValue;
     }
 }
