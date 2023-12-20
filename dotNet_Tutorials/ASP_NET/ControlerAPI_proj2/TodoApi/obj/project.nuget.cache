@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rkaog77gwa5vGdYSUGSdHqcQn0yQGgDbRrTTX8t4o7yZ9eGQ7G5mN8LGjaLVFM9TkCW2/c6Vf516FftUS2MsNw==",
+  "dgSpecHash": "HU+A2UB7ddr3beWK8VlQSQ5n8lg8oi4tZPrv+WJprVMtyPviXwkIjSQZECElQivgW/sK5Aaa9JhaP5vSGPyO+w==",
   "success": true,
   "projectFilePath": "C:\\GitHub\\Personal\\dotNet_Tutorials\\ASP_NET\\ControlerAPI_proj2\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
@@ -83,6 +83,7 @@
     "C:\\Users\\justinp\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.0\\microsoft.entityframeworkcore.inmemory.8.0.0.nupkg.sha512",
     "C:\\Users\\justinp\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.0\\microsoft.entityframeworkcore.relational.8.0.0.nupkg.sha512",
     "C:\\Users\\justinp\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.0\\microsoft.entityframeworkcore.sqlserver.8.0.0.nupkg.sha512",
+    "C:\\Users\\justinp\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.0\\microsoft.entityframeworkcore.tools.8.0.0.nupkg.sha512",
     "C:\\Users\\justinp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\justinp\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\justinp\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
