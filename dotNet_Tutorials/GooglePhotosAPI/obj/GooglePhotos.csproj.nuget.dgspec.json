@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\Personal\\Learning\\W3schools\\App1\\LearningApp\\LearningApp.csproj": {}
+    "C:\\GitHub\\Personal\\dotNet_Tutorials\\GooglePhotosAPI\\GooglePhotos.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\Personal\\Learning\\W3schools\\App1\\LearningApp\\LearningApp.csproj": {
+    "C:\\GitHub\\Personal\\dotNet_Tutorials\\GooglePhotosAPI\\GooglePhotos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\Personal\\Learning\\W3schools\\App1\\LearningApp\\LearningApp.csproj",
-        "projectName": "LearningApp",
-        "projectPath": "C:\\GitHub\\Personal\\Learning\\W3schools\\App1\\LearningApp\\LearningApp.csproj",
+        "projectUniqueName": "C:\\GitHub\\Personal\\dotNet_Tutorials\\GooglePhotosAPI\\GooglePhotos.csproj",
+        "projectName": "GooglePhotos",
+        "projectPath": "C:\\GitHub\\Personal\\dotNet_Tutorials\\GooglePhotosAPI\\GooglePhotos.csproj",
         "packagesPath": "C:\\Users\\pope2\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\Personal\\Learning\\W3schools\\App1\\LearningApp\\obj\\",
+        "outputPath": "C:\\GitHub\\Personal\\dotNet_Tutorials\\GooglePhotosAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pope2\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,14 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -49,11 +55,14 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
