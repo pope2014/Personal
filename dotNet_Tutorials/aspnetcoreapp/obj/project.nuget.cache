@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "amp3qdEFYPaFYCROAQpGx3dkOpMRdZ0uWHoz58y1zr23FvKK7xNqV96wslE5lksJ0qlUT6DcI7TXOR/R6Blprw==",
+  "dgSpecHash": "VBmKrpF+U2VWrdugAau/3hAV4Ev8L8SyJTN4AYBzIMnN0LZcB0yzVro2lr0TvqCRjY7As2yLGYAIlbqixO47sw==",
   "success": true,
-  "projectFilePath": "c:\\GitHub\\Personal\\dotNet_Tutorials\\aspnetcoreapp\\aspnetcoreapp.csproj",
+  "projectFilePath": "C:\\GitHub\\Personal\\dotNet_Tutorials\\aspnetcoreapp\\aspnetcoreapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

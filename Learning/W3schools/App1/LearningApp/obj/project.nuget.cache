@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "HmswWM4HqlHBhoCqFN4EFiDW/cNYzckCAobttEM8OD6SAqEl0zlv9psS4gN9RsDcu1Rg7UgvWW9ReOFmhLrjbA==",
+  "dgSpecHash": "1IYGfaYndI5xZeKLz4Li2zVr3CwqUS7IbRfJSNCXLvDlhxlahMuhmX8eBH7FjgKIiK4kcCjvzbyerx8tkVlWjQ==",
   "success": true,
   "projectFilePath": "C:\\GitHub\\Personal\\Learning\\W3schools\\App1\\LearningApp\\LearningApp.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\GitHub\\Personal\\Learning\\W3schools\\App1\\LearningApp\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

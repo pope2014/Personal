@@ -6,7 +6,6 @@ c:\GitHub\Personal\dotNet_Tutorials\aspnetcoreapp\bin\Debug\net7.0\aspnetcoreapp
 c:\GitHub\Personal\dotNet_Tutorials\aspnetcoreapp\bin\Debug\net7.0\aspnetcoreapp.runtimeconfig.json
 c:\GitHub\Personal\dotNet_Tutorials\aspnetcoreapp\bin\Debug\net7.0\aspnetcoreapp.dll
 c:\GitHub\Personal\dotNet_Tutorials\aspnetcoreapp\bin\Debug\net7.0\aspnetcoreapp.pdb
-c:\GitHub\Personal\dotNet_Tutorials\aspnetcoreapp\obj\Debug\net7.0\aspnetcoreapp.csproj.AssemblyReference.cache
 c:\GitHub\Personal\dotNet_Tutorials\aspnetcoreapp\obj\Debug\net7.0\aspnetcoreapp.GeneratedMSBuildEditorConfig.editorconfig
 c:\GitHub\Personal\dotNet_Tutorials\aspnetcoreapp\obj\Debug\net7.0\aspnetcoreapp.AssemblyInfoInputs.cache
 c:\GitHub\Personal\dotNet_Tutorials\aspnetcoreapp\obj\Debug\net7.0\aspnetcoreapp.AssemblyInfo.cs
@@ -29,3 +28,4 @@ c:\GitHub\Personal\dotNet_Tutorials\aspnetcoreapp\obj\Debug\net7.0\refint\aspnet
 c:\GitHub\Personal\dotNet_Tutorials\aspnetcoreapp\obj\Debug\net7.0\aspnetcoreapp.pdb
 c:\GitHub\Personal\dotNet_Tutorials\aspnetcoreapp\obj\Debug\net7.0\aspnetcoreapp.genruntimeconfig.cache
 c:\GitHub\Personal\dotNet_Tutorials\aspnetcoreapp\obj\Debug\net7.0\ref\aspnetcoreapp.dll
+C:\GitHub\Personal\dotNet_Tutorials\aspnetcoreapp\obj\Debug\net7.0\aspnetcoreapp.sourcelink.json
