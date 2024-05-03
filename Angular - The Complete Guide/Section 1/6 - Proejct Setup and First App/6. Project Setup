@@ -1,0 +1,25 @@
+Setting up machine:
+
+    install node.js
+        download from site
+
+    install angular cli
+        # npm install -g @angular/cli
+
+    when creating apps
+        ng new <project name>
+        flags:
+            --no-strict
+            --standalone boolean - standalone project build
+            --routing boolean - routing
+
+    when running this project build command got a question about sharing pseudonymous with Google, saying no for right now
+        read https://angular.io/analytics for more info
+
+    Askes about stylesheet format: selecting CSS
+    Askes about Server-Side Rednering and Static Site Generation: selecting No
+
+    once the build of the project cd into project folder
+    to "run" the application
+
+        ng serve 
