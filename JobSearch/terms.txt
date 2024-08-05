@@ -1,0 +1,51 @@
+Inversion of Control - general principle where flow the 'framework or container' takes control over 
+    certain aspects of the program such as creation and lifecycle management
+
+Dependency Injection - is a design pattern that achieves Inversion of Control by providing
+    dependencies to a class rather than classes being responsiple in creating them.
+
+Entity Framework Core - a Object Relational manager that helps with accessing data (ex SQL Server)
+    by utilizing .Net objects
+
+Components (Angular) - Building blocks of an Angular application, the control portions of the screen
+    called a view, this is also a TypeScript class that ties a .ts, .html, and .css together for a 
+    singular view containing logic and how to present it.
+
+Services (Angular) - Services are handlers that are shared across the application that 
+    contain functionalities of the application
+
+Routing (Angular) - Routing is implemented using the RouterModule via the @angular/router package 
+    defining routes and path navigation for the application to be able to navigate between views 
+    and components
+
+Observables - help pass messages between Angular application and for event handling, asynchronous
+    programming and used in AJAX or RxJS
+
+AJAX (asynchronous javascript and xml) - this allows web pages to be updated asynchronously by exchanging
+    data with a web sever behind the scenes, XMLHttpRequest to fetch from an API 
+
+RxJS (reactive extensions fo javascript) - library for composing asynchronous event-based programs 
+    using observalbes sequences
+    observable - a collection of future values or events
+    observer - consumes the value emitted by an observable, this would be the component
+
+directives (Stuctural & Attribute) - 
+    Structural - changes the structure of the DOM by adding, removing or manipulating elements 
+        example - ngIf, ngFor, ngSwitch within html 
+    Attribute - changes the apprearance or behavior of existing eelements, components or another directive
+        example - ngClass (adds or removes a set of CSS classes), 
+                  ngStyle (adds or removes a set of inline styles)
+                  ngModel (Binds an input, select or textarea element to a variable)
+    Custom - custom logic to be able to display information as how you would need it 
+        example - how to show and validate a phone number or email address
+
+lifecycle hooks (Angular):
+    ngOnInit - this is initialization of the component, called after the first ngOnChange call
+    ngOnChange - this is called before ngOnInit and whenever one or more data-bound input
+        properties change, the method receives SimpleChanges object that hold previous and new values
+        of the property that is changing
+    ngDoCheck - called after every ngOnChange, implement custom change detection
+    ngAfterContentInit - called after the first ngDoCheck, responds after Angular project external 
+        content into view
+    ngOnDestroy - this is where you do content clean up after the component is destroyed such as
+        unsubscribe from observables, detach from event handlers 

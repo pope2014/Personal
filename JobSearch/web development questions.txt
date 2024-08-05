@@ -1,0 +1,100 @@
+Questions:
+1) How do you differentiate between ID and Class selector?
+    ID is specific to a single tag within the page.
+        prefix #
+    Classes can be reused on multiple elements
+        prefix .
+    
+    Mainly utilize classes when also utilzing bootstrap 
+
+2) What is the difference between undefined value and null value?
+    Javascript:
+        undefined is what Javascript assigns a variable that has not yet been assigned
+        null is a valid empty value of a variable
+    
+3) What are the differences between HTML and XHTML?
+    HTML - standard markup language for creating web pages and web applications
+        rules:
+            not case-sensitive
+            attributes do not require quotation marks
+            tags can be left unclosed or self-closing tags are not required to be closed
+            does not require DOCTYPE declaration
+        browsers and parsers will correct HTML
+    XHTML - strictor that HTML, XML-based version of HTML
+        ruls:
+            case-sensitive
+            attributes musted be quation marked closed
+            all tags properly closed
+            requires DOCTYPE declaration 
+        browsers and parsers will not try and correct XHTML
+
+4) How do you differentiate between responsive design and adaptive design?
+    Responsive:
+        - utilizes fluid grid layout that adjusts to the screen size
+        - media queries to be able to apply different styles on different screen sizes
+        - Percentage based widths
+        - same html code across all devices
+        - provides a more fluid experience as the layout continuously adjust to the screen
+    Adaptive
+        - fixed layouts designed for specific screens
+        - adaptive design switches between predetermined layouts
+        - pixel sizing
+
+5) How do you define progressive rendering in HTML?
+    Techniques on how to load pages in an efficent manner to provide the user a better expierence
+        Lazy Loading: Defers loading non-critical resources until they are needed
+        Incremental Loading: Fetches and render content in chunks that the entire page 
+        Progressive image rednering: uses a lower quality image while the higher quality picture is loading
+        Skeleton Screens: gives temp content while loading is happening while the page is loading 
+        Perks:
+            Improved Perceived performance
+            better user experience
+            optimized resource loading 
+        Challenges:
+            Complexity
+            SEO Implications: careful consideration on search engine can index content 
+            Compatibility across all target devices 
+
+6) Can you explain the distinction between span and div tag in HTML5?
+    Span is a inline element while a div is a block level element 
+    In practice I would utilize span to stylize text while div is the basic tag for creating content in HTML
+
+7) Please help us understand quirks, full standards, and almost standards mode.
+    Quirks - older pages before standards, no DOCTYPE 
+    Full Standard - W3C standards for HTML and CSS 
+    Almost Standard - limited quirks mode means half way between standards with some quirks 
+
+8) Please explain push technology. What are its benefits and drawbacks?
+    types:
+        WebSockets: full-duplex communication channels over a single TCP connection for real-time 
+            data trnasfer between the server and client
+        Server-Sent Events (SSE): Allows servers to push updates to the client over a single 
+            HTTP connection, useful for apps that have frequent updates 
+        Push Notifications: This allows Notifications to the user to be pushed when they are 
+            not actively using the application. Facilitated by services like Apple APN, Google 
+            Firebase Cloud Messaging, and others
+    perks:
+        real time, Reduced latency (reduces the need for app or user to repull data),
+        improved user experience, efficiency 
+    drawback:
+        Increased Complexity, Resource Intensive, Batter/data usage, sercurity concern
+
+9) How do you make sure your websites and applications are accessible to users?
+    Check to see if you can access it and then start debugging at where the point of issue is
+    WCAG guideline:
+        Perceivable: Information and user interface is able to be perceived 
+            - text for non-text content
+            - captions for multimedia alternatives
+            - make content adaptable and distinguishable
+        Operable: user interface components and navigation must be Operable
+            - make all functionality available from a keyboard
+            - give users enough time to read and use content
+        understandable: Information and operation fo the user interface is understandable 
+        robust: content mus tbe robust enough to be interpreted by a wide variety of users
+    Semantic HTML for clear outline of pages 
+    Text Alternatives 
+        such as alt attributes on images 
+        captions and trnascripts for videos and audio 
+        use aria-label or aria-labelledby for interactive elements that do not have visible labels
+        keyboard accessibility
+        
