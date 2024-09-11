@@ -10,16 +10,22 @@
         "projectUniqueName": "C:\\GitHub\\Personal\\Learning\\W3schools\\App1\\LearningApp\\LearningApp.csproj",
         "projectName": "LearningApp",
         "projectPath": "C:\\GitHub\\Personal\\Learning\\W3schools\\App1\\LearningApp\\LearningApp.csproj",
-        "packagesPath": "C:\\Users\\pope2\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\justinp\\.nuget\\packages\\",
         "outputPath": "C:\\GitHub\\Personal\\Learning\\W3schools\\App1\\LearningApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\pope2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\justinp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.105\\RuntimeIdentifierGraph.json"
         }
       }
     }
