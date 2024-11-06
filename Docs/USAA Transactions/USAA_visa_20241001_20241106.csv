@@ -1,0 +1,170 @@
+Account,Date,Description,Original Description,Category,Amount,Status
+VISA,2024-11-06,"AMAZON MARK* 966L46X93","AMAZON MARK* 966L46X93",Category Pending,-35.87,Pending Refund
+VISA,2024-11-06,"WALGREENS #3233","WALGREENS #3233",Category Pending,5.18,Pending
+VISA,2024-11-06,"USAA CREDIT CARD PAYMENT","USAA CREDIT CARD PAYMENT",Category Pending,-1192.10,Pending
+VISA,2024-11-06,"HEB ONLINE #108","HEB ONLINE #108",Category Pending,0.00,Pending
+VISA,2024-11-05,"CHICK-FIL-A #04983","CHICK-FIL-A #04983",Category Pending,29.18,Pending
+VISA,2024-11-05,"H-E-B #656","H-E-B #656",Category Pending,104.48,Pending
+VISA,2024-11-04,"WALMART.COM","WALMART.COM",Category Pending,41.28,Pending
+VISA,2024-11-04,"AMAZON MKTPLACE PMTS","AMAZON MKTPLACE PMTS",Category Pending,63.86,Pending
+VISA,2024-11-04,"AMAZON MKTPLACE PMTS","AMAZON MKTPLACE PMTS",Category Pending,71.98,Pending
+VISA,2024-11-02,"WALMART.COM","WALMART.COM",Category Pending,39.71,Pending
+VISA,2024-11-05,"Amazon","AMAZON MKTPLACE PMTS     Amzn.com/billWA",Shopping,-64.04,Posted
+VISA,2024-11-04,"Champion Energy","CHAMPION ENERGY SERVICES 281-6535090  TX",Utilities,25.31,Posted
+VISA,2024-11-04,"Lowe's","LOWES #00907*            866-483-7521 NC",Home Improvement,46.85,Posted
+VISA,2024-11-04,"Walmart","WM SUPERCENTER #703      281-351-2616 TX",Shopping,63.87,Posted
+VISA,2024-11-04,"Walmart","WM SUPERCENTER #703      281-351-2616 TX",Shopping,45.00,Posted
+VISA,2024-11-03,"Tiff's Treats","TIFF'S TREATS HOUSTON    HOUSTON      TX",Food & Dining,12.00,Posted
+VISA,2024-11-03,"H-E-B","H-E-B #656               HOUSTON      TX",Groceries,23.33,Posted
+VISA,2024-11-02,"Walmart","WALMART.COM              800-925-6278 AR",Shopping,77.84,Posted
+VISA,2024-11-02,"H-E-B","H-E-B #574               TOMBALL      TX",Groceries,70.51,Posted
+VISA,2024-11-02,"Walmart","WAL-MART #5091           CYPRESS      TX",Shopping,15.56,Posted
+VISA,2024-11-01,"Amazon","AMAZON MKTPL*RR00O7WU3   Amzn.com/billWA",Shopping,8.65,Posted
+VISA,2024-11-01,"Houston Northwest Church","HOUSTON NORTHWEST CHURCH 281-469-3389 TX",Gifts & Donations,285.00,Posted
+VISA,2024-11-01,"Kidtastic Park","KIDTASTIC PARK           CYPRESS      TX",Entertainment,31.22,Posted
+VISA,2024-11-01,"Amazon","AMAZON MKTPL*PW53L2Q93   Amzn.com/billWA",Shopping,27.99,Posted
+VISA,2024-11-01,"H-E-B","H-E-B #574               TOMBALL      TX",Groceries,14.33,Posted
+VISA,2024-11-01,"H-E-B","H-E-B #656               HOUSTON      TX",Groceries,107.46,Posted
+VISA,2024-10-31,"USAA Credit Card","USAA CREDIT CARD PAYMENT SAN ANTONIO  TX",Credit Card Payment,-4079.10,Posted
+VISA,2024-10-31,"ExxonMobil","EXXON 7-ELEVEN 38949     TOMBALL      TX",Gas,50.00,Posted
+VISA,2024-10-31,"Fi Rbgkgk","GOOGLE *FI RBGKGK        g.co/helppay#CA",Entertainment,94.78,Posted
+VISA,2024-10-31,"Amazon","AMAZON RETA* U522C2A73   WWW.AMAZON.COWA",Shopping,56.48,Posted
+VISA,2024-10-31,"The Home Depot","THE HOME DEPOT #6512     HOUSTON      TX",Home Improvement,47.57,Posted
+VISA,2024-10-31,"Starbucks","STARBUCKS 800-782-7282   800-782-7282 WA",Coffee Shops,9.85,Posted
+VISA,2024-10-31,"Par Hat Creek Burger","PAR*HAT CREEK BURGER KLEISPRING       TX",Food & Dining,43.13,Posted
+VISA,2024-10-31,"Harris County Toll Road Authority","HCTRA EZTAG REBILL       281-875-3279 TX",Auto & Transport,10.00,Posted
+VISA,2024-10-30,"Amazon","AMAZON MKTPL*WP7CV8CO3   Amzn.com/billWA",Shopping,12.98,Posted
+VISA,2024-10-30,"Amazon","AMAZON MKTPL*FW4E84HK3   Amzn.com/billWA",Shopping,6.90,Posted
+VISA,2024-10-30,"Amazon","AMAZON MKTPL*F06U32XI3   Amzn.com/billWA",Shopping,27.05,Posted
+VISA,2024-10-29,"Costco","COSTCO WHSE #1687        TOMBALL      TX",Shopping,282.58,Posted
+VISA,2024-10-29,"Crust Pizza Co Tomb","TST*CRUST PIZZA CO. TOMB Tomball      TX",Food & Dining,32.48,Posted
+VISA,2024-10-29,"Target","TARGET.COM  *            800-591-3869 MN",Shopping,87.03,Posted
+VISA,2024-10-29,"Target","TARGET.COM  *            800-591-3869 MN",Shopping,28.78,Posted
+VISA,2024-10-29,"H-E-B","H-E-B #574               TOMBALL      TX",Groceries,71.44,Posted
+VISA,2024-10-29,"Harris County Toll Road Authority","HCTRA EZTAG REBILL       281-875-3279 TX",Auto & Transport,10.00,Posted
+VISA,2024-10-28,"Champion Energy","CHAMPION ENERGY SERVICES 281-6535090  TX",Utilities,172.58,Posted
+VISA,2024-10-28,"Vexus","VEXUS                    800-658-2150 MO",Bills & Utilities,70.82,Posted
+VISA,2024-10-28,"Txhomenp.com","WWW.TXHOMENP.COM         HTTPSWWW.TXHOTX",Doctor,45.00,Posted
+VISA,2024-10-28,"Murphy USA","MURPHY EXPRESS 8669      TOMBALL      TX",Gas,41.38,Posted
+VISA,2024-10-28,"Chick-fil-A","CHICK-FIL-A #01244       TOMBALL      TX",Fast Food,32.44,Posted
+VISA,2024-10-28,"Target","TARGET        00019042   TOMBALL      TX",Shopping,11.42,Posted
+VISA,2024-10-28,"Amazon","AMAZON MARK* 966L46X93   HTTPSAMAZON.CWA",Shopping,157.04,Posted
+VISA,2024-10-27,"Gringo's Mexican No","GRINGO'S MEXICAN NO.10   CYPRESS      TX",Restaurants,52.20,Posted
+VISA,2024-10-27,"H-E-B","H-E-B #656               HOUSTON      TX",Groceries,218.30,Posted
+VISA,2024-10-26,"Lowe's","LOWES #01052*            TOMBALL      TX",Home Improvement,31.37,Posted
+VISA,2024-10-26,"Lowe's","LOWES #00907*            866-483-7521 NC",Home Improvement,1891.11,Posted
+VISA,2024-10-26,"Target","TARGET        00019042   TOMBALL      TX",Shopping,182.78,Posted
+VISA,2024-10-26,"Harris County Toll Road Authority","HCTRA EZTAG REBILL       281-875-3279 TX",Auto & Transport,10.00,Posted
+VISA,2024-10-26,"Potbelly","POTBELLY                 HTTPSPOTBELLYTX",Fast Food,48.74,Posted
+VISA,2024-10-25,"Lowe's","LOWES #01052*            TOMBALL      TX",Home Improvement,71.33,Posted
+VISA,2024-10-25,"City of Nacogdoches","CITY OF*NACOGDOCHES      936-559-2525 TX",Utilities,84.53,Posted
+VISA,2024-10-25,"City of Nacogdoches","CITY OF*NACOGDOCHES      936-559-2525 TX",Utilities,39.69,Posted
+VISA,2024-10-25,"Target","TARGET        00019042   TOMBALL      TX",Shopping,11.15,Posted
+VISA,2024-10-25,"Harris County Toll Road Authority","HCTRA EZTAG REBILL       281-875-3279 TX",Auto & Transport,11.30,Posted
+VISA,2024-10-25,"Golden China","GOLDEN CHINA             HOUSTON      TX",Restaurants,25.87,Posted
+VISA,2024-10-23,"Amazon","AMAZON MKTPL*Z12PG7O33   Amzn.com/billWA",Shopping,128.08,Posted
+VISA,2024-10-23,"Starbucks","STARBUCKS STORE 7934     LUFKIN       TX",Coffee Shops,7.90,Posted
+VISA,2024-10-23,"Walmart","WM SUPERCENTER #140      936-639-9600 TX",Shopping,107.01,Posted
+VISA,2024-10-22,"USAA Credit Card","USAA CREDIT CARD PAYMENT SAN ANTONIO  TX",Credit Card Payment,-998.27,Posted
+VISA,2024-10-22,"Brookshire Brothers","BROOKSHIRE BROS #52      HUNTINGTON   TX",Groceries,24.86,Posted
+VISA,2024-10-21,"Cinemark","CINEMARK 1030 RSTBAR     Lufkin       TX",Movies & Dvds,16.62,Posted
+VISA,2024-10-21,"Cinemark","CINEMARK 1030 BOXCON     Lufkin       TX",Movies & Dvds,25.98,Posted
+VISA,2024-10-21,"Disney+","Disney Plus              888-9057888  CA",Television,11.87,Posted
+VISA,2024-10-20,"La Madeleine","LA MADELEINE TYLER       TYLER        TX",Restaurants,45.28,Posted
+VISA,2024-10-20,"La Madeleine","LA MADELEINE TYLER       TYLER        TX",Restaurants,17.28,Posted
+VISA,2024-10-20,"Walmart","WM SUPERCENTER #4605     TYLER        TX",Gas,32.63,Posted
+VISA,2024-10-20,"Brookshire Brothers","BROOKSHIRE BROS #15      WELLS        TX",Groceries,15.34,Posted
+VISA,2024-10-20,"Target","TARGET        00007757   TYLER        TX",Shopping,58.78,Posted
+VISA,2024-10-20,"Bed Bath & Beyond","BED BATH N BONZ          TYLER        TX",Home,-13.72,Posted
+VISA,2024-10-19,"7 Brew Coffee","TIL*TP 7 BREW SB328      TYLER        TX",Coffee Shops,14.88,Posted
+VISA,2024-10-18,"Bed Bath & Beyond","BED BATH N BONZ          903-894-9333 TX",Home,135.77,Posted
+VISA,2024-10-18,"Bigshot Coffeehouse","TST*BIGSHOT COFFEEHOUSE  Tyler        TX",Coffee Shops,13.44,Posted
+VISA,2024-10-18,"Amazon Kids+","AMZNFreeTime*VY8065953   888-802-3080 WA",Kids Activities,6.39,Posted
+VISA,2024-10-17,"Fresh","FRESH 801                TYLER        TX",Groceries,34.23,Posted
+VISA,2024-10-17,"Fresh","FRESH 801                TYLER        TX",Groceries,53.85,Posted
+VISA,2024-10-16,"Murphy USA","MURPHY7597ATWALMART      TYLER        TX",Gas,20.00,Posted
+VISA,2024-10-16,"Great American Cookies","GREAT AMERICAN COOKIES - TYLER        TX",Food & Dining,2.39,Posted
+VISA,2024-10-16,"Walmart","WAL-MART #2688           TYLER        TX",Shopping,20.68,Posted
+VISA,2024-10-16,"Target","TARGET        00007757   TYLER        TX",Shopping,54.13,Posted
+VISA,2024-10-16,"Harris County Toll Road Authority","HCTRA EZTAG REBILL       281-875-3279 TX",Auto & Transport,10.00,Posted
+VISA,2024-10-15,"USAA Credit Card","USAA CREDIT CARD PAYMENT SAN ANTONIO  TX",Credit Card Payment,-1136.35,Posted
+VISA,2024-10-15,"Houston Northwest Church","HOUSTON NORTHWEST CHURCH 281-469-3389 TX",Gifts & Donations,75.00,Posted
+VISA,2024-10-15,"Chevron","CHEVRON 0385335          TYLER        TX",Gas,69.42,Posted
+VISA,2024-10-15,"Chick-fil-A","CHICK-FIL-A #04695       JACKSONVILLE TX",Fast Food,8.32,Posted
+VISA,2024-10-15,"Shell","SHELL OIL 10087341011    CORRIGAN     TX",Gas,44.50,Posted
+VISA,2024-10-15,"Target","TARGET        00007757   TYLER        TX",Shopping,49.71,Posted
+VISA,2024-10-15,"Target","TARGET        00028894   NEW CANEY    TX",Shopping,34.63,Posted
+VISA,2024-10-15,"Great American Cookies","GREATAMERICANCOOKIES     HTTPSORDER.GRTX",Food & Dining,39.99,Posted
+VISA,2024-10-14,"Raising Cane's","RAISING CANES 0049       NACOGDOCHES  TX",Fast Food,27.72,Posted
+VISA,2024-10-14,"Target","TARGET        00009530   LUFKIN       TX",Shopping,93.02,Posted
+VISA,2024-10-14,"Target","TARGET        00009530   LUFKIN       TX",Shopping,19.81,Posted
+VISA,2024-10-13,"Insomnia Cookies Nacog","INSOMNIA COOKIES-NACOG   NACOGDOCHES  TX",Food & Dining,15.43,Posted
+VISA,2024-10-13,"Walmart","WAL-MART #0140           LUFKIN       TX",Shopping,62.10,Posted
+VISA,2024-10-13,"Cracker Barrel","CRCKR BARL #622 LUFKIN TXLUFKIN       TX",Restaurants,67.27,Posted
+VISA,2024-10-13,"Harris County Toll Road Authority","HCTRA EZTAG REBILL       281-875-3279 TX",Auto & Transport,10.00,Posted
+VISA,2024-10-12,"Chevron","CHEVRON 0382376          NACOGDOCHES  TX",Gas,36.45,Posted
+VISA,2024-10-12,"Whataburger","WHATABURGER 1347         TOMBALL      TX",Fast Food,3.67,Posted
+VISA,2024-10-12,"Whataburger","WHATABURGER 1347         TOMBALL      TX",Fast Food,46.92,Posted
+VISA,2024-10-12,"Dutch Bros Coffee","DUTCH BROS TX5103 NACOGDONACOGDOCHES  TX",Coffee Shops,10.07,Posted
+VISA,2024-10-12,"Walmart","WM SUPERCENTER #163      NACOGDOCHES  TX",Gas,35.20,Posted
+VISA,2024-10-12,"Walmart","WM SUPERCENTER #163      NACOGDOCHES  TX",Gas,5.98,Posted
+VISA,2024-10-12,"Py Right Move Storage","PY *RIGHT MOVE STORAGE-TO352-229-2198 TX",Home Services,147.99,Posted
+VISA,2024-10-12,"Harris County Toll Road Authority","HCTRA EZTAG REBILL       281-875-3279 TX",Auto & Transport,10.00,Posted
+VISA,2024-10-12,"Harris County Toll Road Authority","HCTRA EZTAG REBILL       281-875-3279 TX",Auto & Transport,11.17,Posted
+VISA,2024-10-11,"Newk's Eatery","NEWK'S EATERY #1057      NACOGDOCHES  TX",Restaurants,5.19,Posted
+VISA,2024-10-11,"Newk's Eatery","NEWK'S EATERY #1057      NACOGDOCHES  TX",Restaurants,29.51,Posted
+VISA,2024-10-11,"The Donut Palace","THE DONUT PALACE         NACOGDOCHES  TX",Fast Food,7.70,Posted
+VISA,2024-10-11,"Chevron","CHEVRON 0377684          LEGGETT      TX",Gas,15.67,Posted
+VISA,2024-10-11,"Dutch Bros Coffee","DUTCH BROS TX5103 NACOGDONACOGDOCHES  TX",Coffee Shops,9.88,Posted
+VISA,2024-10-11,"Chick-fil-A","CHICK-FIL-A #02433       NACOGDOCHES  TX",Fast Food,9.90,Posted
+VISA,2024-10-11,"Chick-fil-A","CHICK-FIL-A #04983       HOUSTON      TX",Fast Food,33.77,Posted
+VISA,2024-10-11,"Newk's Eatery","NEWK'S EATERY #1057      NACOGDOCHES  TX",Restaurants,5.19,Posted
+VISA,2024-10-11,"Lowe's","LOWES #01772*            NACOGDOCHES  TX",Home Improvement,19.36,Posted
+VISA,2024-10-11,"Chick-fil-A","CHICK-FIL-A #02433       936-462-8681 TX",Fast Food,6.90,Posted
+VISA,2024-10-11,"Chick-fil-A","CHICK-FIL-A #02433       936-462-8681 TX",Fast Food,22.76,Posted
+VISA,2024-10-11,"Chick-fil-A","CHICK-FIL-A #02433       NACOGDOCHES  TX",Fast Food,1.83,Posted
+VISA,2024-10-11,"Ward Animal Hospital","WARD ANIMAL HOSPITAL     NACOGDOCHES  TX",Veterinary,139.07,Posted
+VISA,2024-10-09,"Southend Pharmacy","SOUTHEND PHARMACY        281-4981450  TX",Pharmacy,160.00,Posted
+VISA,2024-10-09,"Amazon","AMAZON MKTPLACE PMTS Amzn.com/bil CREDIT",Shopping,-9.73,Posted
+VISA,2024-10-08,"Amazon","AMAZON MKTPL*MN06G8MZ3   Amzn.com/billWA",Shopping,30.28,Posted
+VISA,2024-10-08,"Walmart","WM SUPERCENTER #163      NACOGDOCHES  TX",Gas,45.51,Posted
+VISA,2024-10-08,"Walmart","WM SUPERCENTER #163      936-560-6969 TX",Shopping,51.96,Posted
+VISA,2024-10-07,"Starbucks","STARBUCKS STORE 10846    ARLINGTON    TX",Coffee Shops,11.80,Posted
+VISA,2024-10-07,"Walmart","WAL-MART #4674           NACOGDOCHES  TX",Shopping,2.22,Posted
+VISA,2024-10-07,"Freddy's Frozen Custard & Steakburgers","FREDDY'S 73-0003         ATHENS       TX",Fast Food,31.01,Posted
+VISA,2024-10-07,"Walmart","WM SUPERCENTER #4674     NACOGDOCHES  TX",Gas,35.64,Posted
+VISA,2024-10-07,"Freddy's Frozen Custard & Steakburgers","FREDDY'S 73-0003         ATHENS       TX",Fast Food,8.66,Posted
+VISA,2024-10-07,"USAA Credit Card","USAA CREDIT CARD PAYMENT SAN ANTONIO  TX",Credit Card Payment,-1478.81,Posted
+VISA,2024-10-06,"McAlister's Deli","MCALISTERS DELI 567      NACOGDOCHES  TX",Restaurants,38.21,Posted
+VISA,2024-10-06,"Lowe's","LOWES #01772*            NACOGDOCHES  TX",Home Improvement,35.57,Posted
+VISA,2024-10-06,"Starbucks","STARBUCKS 10846          NACOGDOCHES  TX",Coffee Shops,18.94,Posted
+VISA,2024-10-06,"Py Rosehill Storage","PY *Rosehill Storage     281-9042 CREDIT",Home Services,-104.15,Posted
+VISA,2024-10-06,"Py Rosehill Storage","PY *Rosehill Storage     281-9042 CREDIT",Home Services,-50.00,Posted
+VISA,2024-10-06,"Py Rosehill Storage","PY *Rosehill Storage     281-9042 CREDIT",Home Services,-10.77,Posted
+VISA,2024-10-06,"Py Rosehill Storage","PY *Rosehill Storage     281-9042 CREDIT",Home Services,-8.13,Posted
+VISA,2024-10-05,"Amazon","Amazon.com*PB6935YN3     Amzn.com/billWA",Shopping,7.69,Posted
+VISA,2024-10-05,"Bar Keeps Eatery","TST* BAR KEEPS EATERY ANDNACOGDOCHES  TX",Restaurants,9.23,Posted
+VISA,2024-10-04,"Sam's Club","SAMS CLUB #6202          LUFKIN       TX",Shopping,39.98,Posted
+VISA,2024-10-04,"Py Right Move Storage","PY *RIGHT MOVE STORAGE-TO352-229-2198 TX",Home Services,163.86,Posted
+VISA,2024-10-04,"Chick-fil-A","CHICK-FIL-A #02433       936-462-8681 TX",Fast Food,8.61,Posted
+VISA,2024-10-04,"Sonic","SONIC DRIVE IN #2590     NACOGDOCHES  TX",Fast Food,11.16,Posted
+VISA,2024-10-04,"The Donut Palace","THE DONUT PALACE         NACOGDOCHES  TX",Fast Food,6.60,Posted
+VISA,2024-10-04,"Domino's","DOMINOS 6970             NACOGDOCHES  TX",Fast Food,10.28,Posted
+VISA,2024-10-03,"Nacogdoches Health","NACOGDOCHES HEALTH PARTNENACOGDOCHES  TX",Doctor,12.00,Posted
+VISA,2024-10-03,"Amazon","AMAZON MKTPL*OH0EN3G43   Amzn.com/billWA",Shopping,24.29,Posted
+VISA,2024-10-03,"Amazon","AMAZON MKTPL*XZ49A0ZU3   Amzn.com/billWA",Shopping,17.51,Posted
+VISA,2024-10-03,"Apple","APPLE.COM/US             800-676-2775 CA",Electronics & Software,680.89,Posted
+VISA,2024-10-03,"Chick-fil-A","CHICK-FIL-A #02433       936-462-8681 TX",Fast Food,25.84,Posted
+VISA,2024-10-03,"Walmart","WAL-MART #0163           NACOGDOCHES  TX",Shopping,10.76,Posted
+VISA,2024-10-02,"Brendyn's Bbq","SQ *BRENDYN'S BBQ        NACOGDOCHES  TX",Restaurants,30.31,Posted
+VISA,2024-10-02,"Brendyn's Bbq","SQ *BRENDYN'S BBQ        NACOGDOCHES  TX",Restaurants,4.33,Posted
+VISA,2024-10-02,"Amazon","AMAZON MKTPL*967A53TU3   Amzn.com/billWA",Shopping,41.08,Posted
+VISA,2024-10-02,"Target","TARGET        00009530   LUFKIN       TX",Shopping,8.11,Posted
+VISA,2024-10-02,"SUMMER ENLOW, DDS","SUMMER ENLOW DDS PC      936-5649730  TX",Dentist,93.00,Posted
+VISA,2024-10-01,"Py Rosehill Storage","PY *Rosehill Storage     281-9042275  TX",Home Services,188.05,Posted
+VISA,2024-10-01,"Fi Mmkqrz","GOOGLE *FI MMKQRz        g.co/helppay#CA",Entertainment,94.58,Posted
+VISA,2024-10-01,"Chick-fil-A","CHICK-FIL-A #02433       NACOGDOCHES  TX",Fast Food,3.83,Posted
+VISA,2024-10-01,"Walmart","WALMART.COM              800-925-6278 AR",Shopping,5.60,Posted
+VISA,2024-10-01,"Walmart","WALMART.COM              800-925-6278 AR",Shopping,39.10,Posted
+VISA,2024-10-01,"M&s Pharmacy Inc","M&S PHARMACY INC         NACOGDOCHES  TX",Pharmacy,10.00,Posted
+VISA,2024-10-01,"USAA Credit Card","USAA CREDIT CARD PAYMENT SAN ANTONIO  TX",Credit Card Payment,-2018.60,Posted

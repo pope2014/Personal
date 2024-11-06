@@ -1,0 +1,17 @@
+Overview:
+I want to make a personal profile web application to hone my skill in software development and be able to showcase my skills through the platform.
+
+Goals:
+- Only Microsoft : I want to just be in the Microsoft niche so I want to go through the whole architecture of using Microsoft products
+
+Tech Stack:
+    Following list is a starting point for things to set up.
+    - Frontend: Blazor
+        Optional: 
+            - See what ASP.NET Core with Razor Pages offers and can ehance the app
+            - Open to Angular, but this would undermine the main 'Only Microsoft' goal 
+    - Backend: ASP.Core Core API 
+    - Database: 
+        This depends on the architecture approach and what would be feasable
+        - Azure Cosmos DB 
+            * tentant would be to learn noSQL db 
