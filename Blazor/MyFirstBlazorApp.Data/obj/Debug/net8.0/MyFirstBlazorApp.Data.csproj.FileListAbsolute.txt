@@ -1,0 +1,12 @@
+C:\GitHub\pope2014\Personal\Blazor\MyFirstBlazorApp.Data\bin\Debug\net8.0\MyFirstBlazorApp.Data.deps.json
+C:\GitHub\pope2014\Personal\Blazor\MyFirstBlazorApp.Data\bin\Debug\net8.0\MyFirstBlazorApp.Data.dll
+C:\GitHub\pope2014\Personal\Blazor\MyFirstBlazorApp.Data\bin\Debug\net8.0\MyFirstBlazorApp.Data.pdb
+C:\GitHub\pope2014\Personal\Blazor\MyFirstBlazorApp.Data\obj\Debug\net8.0\MyFirstBlazorApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\pope2014\Personal\Blazor\MyFirstBlazorApp.Data\obj\Debug\net8.0\MyFirstBlazorApp.Data.AssemblyInfoInputs.cache
+C:\GitHub\pope2014\Personal\Blazor\MyFirstBlazorApp.Data\obj\Debug\net8.0\MyFirstBlazorApp.Data.AssemblyInfo.cs
+C:\GitHub\pope2014\Personal\Blazor\MyFirstBlazorApp.Data\obj\Debug\net8.0\MyFirstBlazorApp.Data.csproj.CoreCompileInputs.cache
+C:\GitHub\pope2014\Personal\Blazor\MyFirstBlazorApp.Data\obj\Debug\net8.0\MyFirstBlazorApp.Data.sourcelink.json
+C:\GitHub\pope2014\Personal\Blazor\MyFirstBlazorApp.Data\obj\Debug\net8.0\MyFirstBlazorApp.Data.dll
+C:\GitHub\pope2014\Personal\Blazor\MyFirstBlazorApp.Data\obj\Debug\net8.0\refint\MyFirstBlazorApp.Data.dll
+C:\GitHub\pope2014\Personal\Blazor\MyFirstBlazorApp.Data\obj\Debug\net8.0\MyFirstBlazorApp.Data.pdb
+C:\GitHub\pope2014\Personal\Blazor\MyFirstBlazorApp.Data\obj\Debug\net8.0\ref\MyFirstBlazorApp.Data.dll

@@ -11,19 +11,6 @@
         "runtime": {
           "bin/placeholder/MyFirstBlazorApp.Data.dll": {}
         }
-      },
-      "MyFirstBlazorApp.Service/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "MyFirstBlazorApp.Data": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MyFirstBlazorApp.Service.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MyFirstBlazorApp.Service.dll": {}
-        }
       }
     }
   },
@@ -32,17 +19,11 @@
       "type": "project",
       "path": "../MyFirstBlazorApp.Data/MyFirstBlazorApp.Data.csproj",
       "msbuildProject": "../MyFirstBlazorApp.Data/MyFirstBlazorApp.Data.csproj"
-    },
-    "MyFirstBlazorApp.Service/1.0.0": {
-      "type": "project",
-      "path": "../MyFirstBlazorApp.Service/MyFirstBlazorApp.Service.csproj",
-      "msbuildProject": "../MyFirstBlazorApp.Service/MyFirstBlazorApp.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "MyFirstBlazorApp.Data >= 1.0.0",
-      "MyFirstBlazorApp.Service >= 1.0.0"
+      "MyFirstBlazorApp.Data >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -52,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\pope2014\\Personal\\Blazor\\MyFirstBlazorApp\\MyFirstBlazorApp.csproj",
-      "projectName": "MyFirstBlazorApp",
-      "projectPath": "C:\\GitHub\\pope2014\\Personal\\Blazor\\MyFirstBlazorApp\\MyFirstBlazorApp.csproj",
+      "projectUniqueName": "C:\\GitHub\\pope2014\\Personal\\Blazor\\MyFirstBlazorApp.Service\\MyFirstBlazorApp.Service.csproj",
+      "projectName": "MyFirstBlazorApp.Service",
+      "projectPath": "C:\\GitHub\\pope2014\\Personal\\Blazor\\MyFirstBlazorApp.Service\\MyFirstBlazorApp.Service.csproj",
       "packagesPath": "C:\\Users\\justinpo\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\pope2014\\Personal\\Blazor\\MyFirstBlazorApp\\obj\\",
+      "outputPath": "C:\\GitHub\\pope2014\\Personal\\Blazor\\MyFirstBlazorApp.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -80,9 +61,6 @@
           "projectReferences": {
             "C:\\GitHub\\pope2014\\Personal\\Blazor\\MyFirstBlazorApp.Data\\MyFirstBlazorApp.Data.csproj": {
               "projectPath": "C:\\GitHub\\pope2014\\Personal\\Blazor\\MyFirstBlazorApp.Data\\MyFirstBlazorApp.Data.csproj"
-            },
-            "C:\\GitHub\\pope2014\\Personal\\Blazor\\MyFirstBlazorApp.Service\\MyFirstBlazorApp.Service.csproj": {
-              "projectPath": "C:\\GitHub\\pope2014\\Personal\\Blazor\\MyFirstBlazorApp.Service\\MyFirstBlazorApp.Service.csproj"
             }
           }
         }
@@ -113,9 +91,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

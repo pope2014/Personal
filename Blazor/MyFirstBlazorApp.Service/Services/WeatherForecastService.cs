@@ -1,4 +1,6 @@
-namespace MyFirstBlazorApp.Data;
+using MyFirstBlazorApp.Data.Models;
+
+namespace MyFirstBlazorApp.Service.Services;
 
 public class WeatherForecastService
 {

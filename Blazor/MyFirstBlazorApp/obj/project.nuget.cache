@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mKz8XrjyCLI=",
+  "dgSpecHash": "Zm28WU4Nm/w=",
   "success": true,
   "projectFilePath": "C:\\GitHub\\pope2014\\Personal\\Blazor\\MyFirstBlazorApp\\MyFirstBlazorApp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\justinpo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\justinpo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\justinpo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\justinpo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
