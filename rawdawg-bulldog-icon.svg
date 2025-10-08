@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">RawDawg Bulldog Icon</title>
+  <desc id="desc">Flat vector bulldog head icon in gold/orange lines on a deep blue background, no text.</desc>
+  <style>
+    :root{
+      --bg:#003580;        /* deep blue */
+      --gold:#FFB726;      /* golden orange fill */
+      --gold-dark:#CE8513; /* darker accent for shadows/strokes */
+      --line:#CE8513;
+      --stroke:12;
+    }
+    .bg{fill:var(--bg);}
+    .fill{fill:var(--gold);}
+    .accent{fill:var(--gold-dark);}
+    .line{fill:none;stroke:var(--line);stroke-width:var(--stroke);stroke-linecap:round;stroke-linejoin:round;}
+  </style>
+
+  <rect class="bg" width="512" height="512" rx="28" ry="28"/>
+
+  <g transform="translate(56,72)">
+    <path class="fill" d="M146 88c32-28 96-28 128 0 18 16 34 40 34 66 0 62-58 98-128 98s-128-36-128-98c0-26 16-50 34-66 10-9 22-15 34-19 12-4 26-2 26-2z"/>
+    <path class="fill" d="M108 108c-18 10-34 30-34 54 0 27 18 49 44 64 12 6 24 10 36 12-12-20-18-44-18-68 0-22 6-44 16-62-16 0-30 0-44 0z"/>
+    <path class="fill" d="M286 108c18 10 34 30 34 54 0 27-18 49-44 64-12 6-24 10-36 12 12-20 18-44 18-68 0-22-6-44-16-62 16 0 30 0 44 0z"/>
+    <path class="fill" d="M172 176c0 32 22 56 52 56s52-24 52-56-22-48-52-48-52 16-52 48z"/>
+    <path class="fill" d="M136 84c-20-24-44-34-64-24-16 8-20 24-20 28 18 4 36 2 56-6 10-4 20-8 28-12z"/>
+    <path class="fill" d="M282 84c20-24 44-34 64-24 16 8 20 24 20 28-18 4-36 2-56-6-10-4-20-8-28-12z"/>
+    <path class="accent" d="M214 152c18 0 34 10 40 24-10 12-26 20-44 20-16 0-30-6-40-16 8-16 24-28 44-28z"/>
+    <circle class="accent" cx="236" cy="192" r="6"/>
+    <circle class="accent" cx="220" cy="206" r="5"/>
+  </g>
+
+  <g transform="translate(56,72)">
+    <path class="line" d="M146 88c32-28 96-28 128 0 18 16 34 40 34 66 0 62-58 98-128 98s-128-36-128-98c0-26 16-50 34-66 32-28 96-28 96-28"/>
+    <path class="line" d="M136 84c-20-24-44-34-64-24-16 8-20 24-20 28"/>
+    <path class="line" d="M282 84c20-24 44-34 64-24 16 8 20 24 20 28"/>
+    <path class="line" d="M132 148c-20 10-32 26-32 46 0 40 48 60 112 60"/>
+    <path class="line" d="M288 148c20 10 32 26 32 46 0 40-48 60-112 60"/>
+    <path class="line" d="M172 176c0 32 22 56 52 56s52-24 52-56-22-48-52-48-52 16-52 48z"/>
+    <path class="line" d="M244 180c-12-8-28-8-40 0"/>
+    <path class="line" d="M204 232c-10 8-22 12-34 12"/>
+  </g>
+</svg>
