@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title>RawDawg Bulldog — Glyph</title>
+  <defs>
+    <style>
+      :root{
+        --blue:#003580;
+        --gold:#FFB726;
+        --gold-dark:#C97E10;
+        --stroke:16;
+      }
+      .s{stroke:var(--blue);stroke-width:var(--stroke);stroke-linecap:round;stroke-linejoin:round;}
+      .fg{fill:var(--gold);}
+      .ink{fill:var(--blue);}
+    </style>
+  </defs>
+
+  <!-- Minimal, geometric bulldog head (transparent background) -->
+  <!-- Head base -->
+  <path class="fg s" d="M128 240c0-70 58-120 128-120s128 50 128 120-58 128-128 128S128 310 128 240z"/>
+  <!-- Ears -->
+  <path class="fg s" d="M168 180c-30-20-52-18-68 2 22 6 44 8 68-2z"/>
+  <path class="fg s" d="M344 180c30-20 52-18 68 2-22 6-44 8-68-2z"/>
+  <!-- Cheeks / jowls -->
+  <path class="fg s" d="M184 312c-22-10-40-32-40-56 0-14 6-26 16-36"/>
+  <path class="fg s" d="M328 312c22-10 40-32 40-56 0-14-6-26-16-36"/>
+  <!-- Muzzle -->
+  <path class="fg s" d="M208 276c0-44 28-72 48-72s48 28 48 72-28 64-48 64-48-20-48-64z"/>
+  <!-- Nose bridge / split -->
+  <path class="ink s" d="M256 216v24"/>
+  <!-- Nose -->
+  <path class="ink s" d="M256 260c24 0 32 14 32 22 0 6-10 10-32 10s-32-4-32-10c0-8 8-22 32-22z"/>
+  <!-- Eyes -->
+  <circle class="ink" cx="214" cy="232" r="10"/>
+  <circle class="ink" cx="298" cy="232" r="10"/>
+</svg>

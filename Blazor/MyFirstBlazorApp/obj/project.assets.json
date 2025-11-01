@@ -1,56 +1,106 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net8.0": {
+      "MyFirstBlazorApp.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MyFirstBlazorApp.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyFirstBlazorApp.Data.dll": {}
+        }
+      },
+      "MyFirstBlazorApp.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MyFirstBlazorApp.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MyFirstBlazorApp.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyFirstBlazorApp.Service.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MyFirstBlazorApp.Data/1.0.0": {
+      "type": "project",
+      "path": "../MyFirstBlazorApp.Data/MyFirstBlazorApp.Data.csproj",
+      "msbuildProject": "../MyFirstBlazorApp.Data/MyFirstBlazorApp.Data.csproj"
+    },
+    "MyFirstBlazorApp.Service/1.0.0": {
+      "type": "project",
+      "path": "../MyFirstBlazorApp.Service/MyFirstBlazorApp.Service.csproj",
+      "msbuildProject": "../MyFirstBlazorApp.Service/MyFirstBlazorApp.Service.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net8.0": [
+      "MyFirstBlazorApp.Data >= 1.0.0",
+      "MyFirstBlazorApp.Service >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\justinp\\.nuget\\packages\\": {},
+    "C:\\Users\\justinpo\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\GitHub\\Personal\\Blazor\\MyFirstBlazorApp\\MyFirstBlazorApp.csproj",
+      "projectUniqueName": "C:\\GitHub\\pope2014\\Personal\\Blazor\\MyFirstBlazorApp\\MyFirstBlazorApp.csproj",
       "projectName": "MyFirstBlazorApp",
-      "projectPath": "c:\\GitHub\\Personal\\Blazor\\MyFirstBlazorApp\\MyFirstBlazorApp.csproj",
-      "packagesPath": "C:\\Users\\justinp\\.nuget\\packages\\",
-      "outputPath": "c:\\GitHub\\Personal\\Blazor\\MyFirstBlazorApp\\obj\\",
+      "projectPath": "C:\\GitHub\\pope2014\\Personal\\Blazor\\MyFirstBlazorApp\\MyFirstBlazorApp.csproj",
+      "packagesPath": "C:\\Users\\justinpo\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHub\\pope2014\\Personal\\Blazor\\MyFirstBlazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\justinp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\justinpo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.311\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
-          "projectReferences": {}
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\GitHub\\pope2014\\Personal\\Blazor\\MyFirstBlazorApp.Data\\MyFirstBlazorApp.Data.csproj": {
+              "projectPath": "C:\\GitHub\\pope2014\\Personal\\Blazor\\MyFirstBlazorApp.Data\\MyFirstBlazorApp.Data.csproj"
+            },
+            "C:\\GitHub\\pope2014\\Personal\\Blazor\\MyFirstBlazorApp.Service\\MyFirstBlazorApp.Service.csproj": {
+              "projectPath": "C:\\GitHub\\pope2014\\Personal\\Blazor\\MyFirstBlazorApp.Service\\MyFirstBlazorApp.Service.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -70,7 +120,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.311\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

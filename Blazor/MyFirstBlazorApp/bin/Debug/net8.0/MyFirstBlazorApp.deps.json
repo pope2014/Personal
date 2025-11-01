@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyFirstBlazorApp/1.0.0": {
+        "dependencies": {
+          "MyFirstBlazorApp.Data": "1.0.0",
+          "MyFirstBlazorApp.Service": "1.0.0"
+        },
+        "runtime": {
+          "MyFirstBlazorApp.dll": {}
+        }
+      },
+      "MyFirstBlazorApp.Data/1.0.0": {
+        "runtime": {
+          "MyFirstBlazorApp.Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyFirstBlazorApp.Service/1.0.0": {
+        "dependencies": {
+          "MyFirstBlazorApp.Data": "1.0.0"
+        },
+        "runtime": {
+          "MyFirstBlazorApp.Service.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyFirstBlazorApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyFirstBlazorApp.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyFirstBlazorApp.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

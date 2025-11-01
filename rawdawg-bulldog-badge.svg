@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title>RawDawg Bulldog — Badge</title>
+  <defs>
+    <style>
+      :root{
+        --blue:#003580;
+        --gold:#FFB726;
+        --stroke:16;
+      }
+      .bg{fill:var(--blue);}
+      .fg{fill:var(--gold);}
+      .s{stroke:#0B234F;stroke-width:var(--stroke);stroke-linecap:round;stroke-linejoin:round;}
+    </style>
+  </defs>
+
+  <!-- Blue circle background -->
+  <circle class="bg" cx="256" cy="256" r="240"/>
+  <!-- Head base -->
+  <path class="fg s" d="M128 240c0-70 58-120 128-120s128 50 128 120-58 128-128 128S128 310 128 240z"/>
+  <!-- Ears -->
+  <path class="fg s" d="M168 180c-30-20-52-18-68 2 22 6 44 8 68-2z"/>
+  <path class="fg s" d="M344 180c30-20 52-18 68 2-22 6-44 8-68-2z"/>
+  <!-- Muzzle -->
+  <path class="fg s" d="M208 276c0-44 28-72 48-72s48 28 48 72-28 64-48 64-48-20-48-64z"/>
+  <!-- Eyes & nose -->
+  <circle fill="#0B234F" cx="214" cy="232" r="10"/>
+  <circle fill="#0B234F" cx="298" cy="232" r="10"/>
+  <path fill="#0B234F" d="M256 260c24 0 32 14 32 22 0 6-10 10-32 10s-32-4-32-10c0-8 8-22 32-22z"/>
+</svg>
